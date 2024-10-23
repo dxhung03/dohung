@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Baitaplon.Net</id>
+    <version>1.0.0</version>
+    <authors>Baitaplon.Net</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Do Hung\source\repos\Baitaplon.Net\Baitaplon.Net\bin\Debug\net8.0-windows\Baitaplon.Net.runtimeconfig.json" target="lib\net8.0-windows7.0\Baitaplon.Net.runtimeconfig.json" />
+    <file src="C:\Users\Do Hung\source\repos\Baitaplon.Net\Baitaplon.Net\bin\Debug\net8.0-windows\Baitaplon.Net.dll" target="lib\net8.0-windows7.0\Baitaplon.Net.dll" />
+  </files>
+</package>

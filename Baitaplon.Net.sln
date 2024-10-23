@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baitaplon.Net", "Baitaplon.Net\Baitaplon.Net.csproj", "{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EBAED16-8D38-4533-BD91-F725A715A519}
+	EndGlobalSection
+EndGlobal

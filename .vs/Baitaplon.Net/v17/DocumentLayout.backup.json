@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmtrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmtrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmthemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmthemsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmthemkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmthemkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\childform\\fmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\baitaplon.net\\childform\\fmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\childform\\fmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\fmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|c:\\users\\do hung\\source\\repos\\baitaplon.net\\baitaplon.net\\fmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED79612-AD8F-4FF8-81AD-AD6CA803B33B}|Baitaplon.Net\\Baitaplon.Net.csproj|solutionrelative:baitaplon.net\\fmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FmTraSach.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmTraSach.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmTraSach.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmTraSach.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmTraSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:34:44.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FmThue.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmThue.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmThue.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmThue.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmThue.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:34:13.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fmthemsach.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\Fmthemsach.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\Fmthemsach.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\Fmthemsach.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\Fmthemsach.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAUwOIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:32:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FmThemKH.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmThemKH.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmThemKH.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmThemKH.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmThemKH.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:32:32.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FmThanhtoan.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmThanhtoan.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmThanhtoan.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmThanhtoan.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmThanhtoan.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAUwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:32:03.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FmSach.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmSach.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmSach.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmSach.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmSach.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:31:23.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FmLoaisach.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmLoaisach.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmLoaisach.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmLoaisach.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmLoaisach.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAUwJMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:30:22.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FmKhachThue.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmKhachThue.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmKhachThue.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmKhachThue.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmKhachThue.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAiwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:29:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FmDoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmDoanhThu.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmDoanhThu.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmDoanhThu.cs",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmDoanhThu.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:29:07.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FmDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmDoanhThu.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\ChildForm\\FmDoanhThu.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\ChildForm\\FmDoanhThu.cs [Design]",
+              "RelativeToolTip": "Baitaplon.Net\\ChildForm\\FmDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:29:02.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\FmMain.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\FmMain.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\FmMain.cs",
+              "RelativeToolTip": "Baitaplon.Net\\FmMain.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAkwIEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:27:51.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\FmDangNhap.cs",
+              "RelativeDocumentMoniker": "Baitaplon.Net\\FmDangNhap.cs",
+              "ToolTip": "C:\\Users\\Do Hung\\source\\repos\\Baitaplon.Net\\Baitaplon.Net\\FmDangNhap.cs",
+              "RelativeToolTip": "Baitaplon.Net\\FmDangNhap.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv14AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:21:50.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
